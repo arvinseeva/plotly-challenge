@@ -19,3 +19,7 @@ This involved the following :
 - Use sample_values for the marker size.
 - Use otu_ids for the marker colors.
 - Use otu_labels for the text values.
+
+
+The task was then to display the sample metadata, i.e., an individual's demographic information.
+
