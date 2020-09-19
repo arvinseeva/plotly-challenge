@@ -26,3 +26,6 @@ The task was then to display the sample metadata, i.e., an individual's demograp
 This also involved to display each key-value pair from the metadata JSON object somewhere on the page.
 
 Finally, the task was to update all of the plots any time that a new sample is selected.
+
+For the additional task, we were asked to adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
+
