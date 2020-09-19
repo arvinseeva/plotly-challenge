@@ -16,3 +16,4 @@ Part of this exercise included :
 Following this task, the next task was to build a bubble chart that displays each sample.
 This involved the following : 
 - Use otu_ids for the x values.
+- Use sample_values for the marker size.
