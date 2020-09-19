@@ -7,4 +7,5 @@ The first task is to read the samples.json file.
 
 The next step is to create a horizontal bar chart with dropdown menu to display the top 10 OTUs. 
 
-
+Part of this exercise included : 
+- Use sample_values as the values for the bar chart.
