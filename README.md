@@ -33,3 +33,4 @@ This also involved modifying the code from 0 to 9.
 
 The chart updates once a new sample is selected. 
 
+This is then deployed usingn GitHub pages. 
