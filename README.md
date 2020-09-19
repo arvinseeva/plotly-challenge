@@ -29,3 +29,5 @@ Finally, the task was to update all of the plots any time that a new sample is s
 
 For the additional task, we were asked to adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
 
+This also involved modifying the code from 0 to 9. 
+
