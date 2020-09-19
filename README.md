@@ -5,4 +5,6 @@ The main objective of this assignment was to explore the belly button diversity 
 
 The first task is to read the samples.json file. 
 
+The next step is to create a horizontal bar chart with dropdown menu to display the top 10 OTUs. 
+
 
