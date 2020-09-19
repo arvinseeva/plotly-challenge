@@ -11,3 +11,7 @@ Part of this exercise included :
 - Use sample_values as the values for the bar chart.
 - Use otu_ids as the labels for the bar chart.
 - Use otu_labels as the hovertext for the chart.
+
+
+Following this task, the next task was to build a bubble chart that displays each sample. 
+- 
