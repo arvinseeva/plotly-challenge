@@ -13,5 +13,4 @@ Part of this exercise included :
 - Use otu_labels as the hovertext for the chart.
 
 
-Following this task, the next task was to build a bubble chart that displays each sample. 
-- 
+Following this task, the next task was to build a bubble chart that displays each sample.
