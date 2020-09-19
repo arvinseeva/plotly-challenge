@@ -23,3 +23,5 @@ This involved the following :
 
 The task was then to display the sample metadata, i.e., an individual's demographic information.
 
+This also involved to display each key-value pair from the metadata JSON object somewhere on the page.
+
