@@ -31,3 +31,5 @@ For the additional task, we were asked to adapt the Gauge Chart from https://plo
 
 This also involved modifying the code from 0 to 9. 
 
+The chart updates once a new sample is selected. 
+
