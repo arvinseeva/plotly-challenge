@@ -9,3 +9,4 @@ The next step is to create a horizontal bar chart with dropdown menu to display 
 
 Part of this exercise included : 
 - Use sample_values as the values for the bar chart.
+- Use otu_ids as the labels for the bar chart.
